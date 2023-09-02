@@ -19,7 +19,7 @@ h1 {
   /* width: 700px; */
 }
 img {
-  width: 700px;
+  width: 30vw;
   height: 400px;
   position: absolute;
   top: 200px;
@@ -29,14 +29,15 @@ img {
   }
 }
 #container {
-  height: 500px;
+  width: 60vw;
+  height: 60vh;
   display: flex;
   align-items: flex-end;
   justify-content: center;
   /* align-items: center; */
 }
 .bar {
-  width: 12px;
+  width: 0.7vw;
   background-color: rgb(71, 77, 77);
   margin: 1.5px;
 }
